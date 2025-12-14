@@ -6,7 +6,7 @@ The script reads the subtitle file line by line, keeps subtitle numbers and time
 
 Features
 
-Translates English subtitles to Persian (Farsi)
+Translates English subtitles to Persian (Farsi) or any other language
 
 Preserves SRT numbering and timestamps
 
